@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//THIS FILE AND REPO WAS FIRST PUBLISHED ON 04/16 @ 10:00 pm
+//THIS FILE AND REPO WAS FIRST PUBLISHED ON 04/17 @ 5:30 pm
 
 //void x_int(double a, double b, double c) {
 //	cout << a << 'x' << " + " << b << 'y' << '=' << c;
@@ -34,7 +34,7 @@ string f(double m, double b) {
 }
 
 string g(double m, double b) {
-	//converts to tring that way the 'x' can show up in the equation
+	//converts to string that way the 'x' can show up in the equation
 	return to_string(m) + "x + " + to_string(b);
 }
 
