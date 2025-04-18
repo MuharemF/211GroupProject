@@ -28,7 +28,7 @@ public:
 	//	c = c / a;
 	//	cout << " The x intercept is " << c << endl;
 	//
-	// testing //
+	// testing234234234 //
 	//}
 
 	string f(double m, double b) {
